@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m a 21 year old Information Technology Undergraduate from Sri Lanka
 
+[![](https://visitcount.itsvg.in/api?id=BL4ckBU7N&icon=8&color=9)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindu-kavishka-974006212) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BlackBurn31350) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20682770) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Ravindu313508) 
@@ -13,6 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BL4ckBU7N&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BL4ckBU7N&icon=8&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
