@@ -1,20 +1,24 @@
-<h3 align="center">Undergraduate @ SLIIT</h3>
+# 💫 About Me:
+I'm currently studying @ SLIIT
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bl4ckbu7n&label=Profile%20views&color=0e75b6&style=flat" alt="bl4ckbu7n" /> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindu-kavishka-974006212) 
 
-- 📫 How to reach me **ravindukavishka.365@gmail.com**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BL4ckBU7N&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BL4ckBU7N&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BL4ckBU7N&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ravindu-kavishka-974006212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu-kavishka-974006212" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BL4ckBU7N&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Languages/Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bl4ckbu7n&show_icons=true&locale=en" alt="bl4ckbu7n" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=BL4ckBU7N&icon=8&color=11)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bl4ckbu7n&" alt="bl4ckbu7n" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
