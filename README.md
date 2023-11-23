@@ -1,5 +1,5 @@
 # 👨🏽‍💻 About Me:
-I’m a 21-year-old Cyber Security Undergraduate from Sri Lanka, whose interested in robust defense strategies, penetration testing and cryptography.<br><br>
+I’m a 21-year-old Cyber Security Undergraduate from Sri Lanka, whose interested in robust defense strategies, penetration testing and cryptography. Eager to contribute my skills to enhance cybersecurity landscapes.<br><br>
 
 
 ## ⚡️Socials
