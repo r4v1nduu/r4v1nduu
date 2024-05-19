@@ -21,7 +21,7 @@ I’m a 21-year-old Cyber Security Undergraduate from Sri Lanka, whose intereste
 
 
 
-(https://skillicons.dev/icons?i=c,cpp,go,py,arduino,raspberrypi,bash,docker,kali)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,arduino,raspberrypi,bash,docker,kali)]()
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,mysql,nodejs)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,mysql,nodejs)]()
 
