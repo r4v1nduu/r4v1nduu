@@ -18,3 +18,7 @@ I’m a 21-year-old Cyber Security Undergraduate from Sri Lanka, whose intereste
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r4v1nduu&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
